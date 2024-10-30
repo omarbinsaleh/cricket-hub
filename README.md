@@ -21,3 +21,5 @@ The following Technologies were use to build this project.
    - User can buy their favorite player with a fingure tap
    - Deleting the player from the list of added player.
    
+# Live Site
+https://cricket-hub.netlify.app/
